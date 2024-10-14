@@ -1,6 +1,6 @@
 {
     "name": "1$VPN",
     "description": "VPN service",
-    "url": "https://onedollarvpn.pages.dev",
+    "url": "https://onedollarvpn.vercel.app",
     "iconUrl": "https://raw.githubusercontent.com/Kurilchanin/public/refs/heads/main/onedollarvpn.png"
 }
